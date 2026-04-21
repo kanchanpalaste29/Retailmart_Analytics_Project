@@ -235,15 +235,3 @@ This project demonstrates mastery of:
 - ✅ Frontend integration with Chart.js
 - ✅ Production deployment practices
 
-## 📜 License
-
-This project is created for educational purposes as part of AccioJob SQL Bootcamp.
-
-## 👨‍💻 Author
-
-**AccioJob SQL Bootcamp**  
-Instructor: Sayyed Siraj Ali
-
----
-
-⭐ If you found this project helpful, please give it a star!
